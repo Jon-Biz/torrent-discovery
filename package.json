@@ -1,7 +1,7 @@
 {
   "name": "torrent-discovery",
   "description": "Discover BitTorrent and WebTorrent peers",
-  "version": "9.1.1-arc-2",
+  "version": "9.1.1-arc-3",
   "author": {
     "name": "WebTorrent, LLC",
     "email": "feross@webtorrent.io",
@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "bittorrent-dht": "^9.0.0",
-    "bittorrent-tracker": "git+https://github.com/guanzo/bittorrent-tracker.git#v9.11.0-arc-2",
+    "bittorrent-tracker": "git+https://github.com/guanzo/bittorrent-tracker.git#v9.11.0-arc-3",
     "debug": "^4.0.0",
     "run-parallel": "^1.1.2"
   },
