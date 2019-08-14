@@ -1,7 +1,7 @@
 {
   "name": "torrent-discovery",
   "description": "Discover BitTorrent and WebTorrent peers",
-  "version": "9.1.2-arc-3",
+  "version": "9.2.0",
   "author": {
     "name": "WebTorrent, LLC",
     "email": "feross@webtorrent.io",
@@ -10,6 +10,7 @@
   "browser": {
     "bittorrent-dht/client": false
   },
+  "chromeapp": {},
   "bugs": {
     "url": "https://github.com/webtorrent/torrent-discovery/issues"
   },
